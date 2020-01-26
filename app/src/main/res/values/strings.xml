@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WatchIt</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Home</string>
+    <string name="Cart">Cart</string>
+    <string name="About">About</string>
+    <string name="add">Add to Cart!</string>
+    <string name="productname">Product Name</string>
+    <string name="price">price</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="checkout">Checkout</string>
+    <string name="cartStatus">Your cart is empty</string>
+    <string name="gc3">Analog, Stainless Steel, Chronograph, 100m Water Resistant, 47mm Case Diameter</string>
+    <string name="gc4"></string>
+    <string name="gc5"></string>
+    <string name="gc6"></string>
+    <string name="gc7"></string>
+    <string name="gc8"></string>
+    <string name="gc9"></string>
+    <string name="gc10"></string>
+    <string name="watch">Watch</string>
+
+</resources>
